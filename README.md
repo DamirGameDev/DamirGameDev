@@ -20,4 +20,4 @@ I've worked on [Den of Wolves](https://store.steampowered.com/app/1818140/Den_of
 ---
 
 ### Contacts
-[LinkedIn](https://www.linkedin.com/in/damirgamedev) · [Telegram](https://t.me/damirkanyafin) · kanakhovdamir@gmail.com
+[LinkedIn](https://www.linkedin.com/in/damirgamedev) · [Telegram](https://t.me/kanakhovdamir) · kanakhovdamir@gmail.com
