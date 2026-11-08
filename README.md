@@ -11,6 +11,7 @@ I've worked on [Den of Wolves](https://store.steampowered.com/app/1818140/Den_of
 2. [**Hub-Example-Project**](https://github.com/Arendrast/Hub-Example-Project) - multiplayer WebGL hub on *FishNet*: chat, emotes, server-side bots, mini-games, dedicated Linux server
 3. [**UnityWebGLKeyboardModule**](https://github.com/Arendrast/UnityWebGLKeyboardModule) - native mobile keyboard with emoji support for Unity WebGL
 4. [**Orcs-VS-Elfs-TD**](https://github.com/Arendrast/Orcs-VS-Elfs-TD) - Tower Defense playable: *MVC + Entity Component*, pooling, no physics, URP
+5. [**Animals-Simulation**](https://github.com/Arendrast/Animals-Simulation) - top-down animal simulation: data-driven animals, food chain on tag assets, collision rules, *VContainer*, *Addressables*
 
 ---
 
